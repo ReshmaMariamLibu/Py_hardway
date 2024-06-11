@@ -1,6 +1,6 @@
-# Define a Parent class with a method called altered.
+# Define a Parent class 
 class Parent(object):
-
+   # define a method called altered.
     def altered(self):
         print("PARENT altered()")
 
